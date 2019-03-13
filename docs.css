@@ -58,6 +58,10 @@ pre {
     background: #f5f2f0;
 }
 
+body {
+    height: 600px;
+    width: 800px;
+}
 
 /* Inline code */
 
