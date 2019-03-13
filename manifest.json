@@ -28,6 +28,7 @@
         "48": "images/48.png",
         "128": "images/128.png"
     },
+    "content_security_policy": "script-src 'self' https://woofjs.com; object-src 'self' https://woofjs.com",
     "options_page": "options.html",
     "manifest_version": 2
 }
