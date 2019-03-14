@@ -1977,6 +1977,17 @@ var app = new Vue({
             ],
             Tutorials: [{
                 html: '<iframe src="https://coding.space/woof" frameborder="0"></iframe>',
+            }],
+            Setup: [{
+
+                url: "./images/setupScreen.png",
+                description: "Before working in script.js, make sure you have this pasted in the body of your index.html file:",
+                code: `<script src="https://rawgit.com/stevekrouse/WoofJS/master/dist/woof.js"></script>`,
+                tags: "setup information",
+            },
+            {
+                html: '<a href="https://repl.it/languages/html" target="_blank"> Click here to start a new project </a>'
+
             }]
         }
     },
@@ -2108,3 +2119,4 @@ Vue.nextTick(function () {
     });
 
 })
+

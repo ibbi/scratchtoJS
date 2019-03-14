@@ -208,6 +208,9 @@ button.highlight:hover {
 #Tutorials {
     background-color: #222;
 }
+#Setup {
+    background-color: #a67f59;
+}
 iframe {
     position: relative; 
     height: 100%; 

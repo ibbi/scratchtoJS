@@ -1,11 +1,12 @@
 {
-    "name": "Scratch to JS",
+    "name": "woofJS for repl.it",
     "version": "1.0",
-    "description": "Toolbox to help transition from Scratch to JavaScript",
+    "description": "woofJS toolbox for use on repl.it",
     "permissions": [
         "storage",
         "declarativeContent",
-        "activeTab"
+        "activeTab",
+        "contextMenus"
     ],
     "background": {
         "scripts": [
