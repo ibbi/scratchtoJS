@@ -58,9 +58,15 @@ pre {
     background: #f5f2f0;
 }
 
-body {
+html {
+    width: 600px;
     height: 600px;
-    width: 800px;
+    overflow-y: scroll;
+}
+body {
+    width: 600px;
+    height: 600px;
+    overflow-y: scroll;
 }
 
 /* Inline code */
