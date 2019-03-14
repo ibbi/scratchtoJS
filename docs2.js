@@ -1974,7 +1974,10 @@ var app = new Vue({
                 code: "//------------------------------------------\n//------Instruction Screen Sprites----------\n//------------------------------------------",
                 tags: "comment"
             }
-            ]
+            ],
+            Tutorials: [{
+                html: '<iframe src="https://coding.space/woof" frameborder="0"></iframe>',
+            }]
         }
     },
     computed: {

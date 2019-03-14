@@ -59,13 +59,13 @@ pre {
 }
 
 html {
-    width: 600px;
+    width: 500px;
     height: 600px;
     overflow-y: scroll;
 }
 body {
-    width: 600px;
-    height: 600px;
+    width: 100%;
+    height: 100%;
     overflow-y: scroll;
 }
 
@@ -205,17 +205,13 @@ button.highlight:hover {
 #Motion {
     background-color: #4875D1;
 }
-#TutWrap {
-    display: flex;
-    flex-flow: column wrap;
-    width: 98%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 5px;
-}
 #Tutorials {
-    text-align: center;
     background-color: #222;
+}
+iframe {
+    position: relative; 
+    height: 100%; 
+    width: 100%;
 }
 
 #Looks {
@@ -358,7 +354,7 @@ h4 {
     button {
         margin: 1.5%;
         width: 45%;
-        height: 13%;
+        height: 11%;
     }
 }
 
