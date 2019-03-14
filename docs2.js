@@ -222,143 +222,143 @@ var updateColor = function(e) {
 
                             {
                                 url: "./images/beach.jpg",
-                                code: 'setBackdropURL("./docs/images/beach.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/beach.jpg")\nsetBackdropStyle("cover")',
                                 tags: "beach backdrop background",
                             },
 
                             {
                                 url: "./images/nyc.jpg",
-                                code: 'setBackdropURL("./docs/images/nyc.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/nyc.jpg")\nsetBackdropStyle("cover")',
                                 tags: "new york city backdrop background",
                             },
 
                             {
                                 url: "./images/candyland.jpg",
-                                code: 'setBackdropURL("./docs/images/candyland.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/candyland.jpg")\nsetBackdropStyle("cover")',
                                 tags: "candy land backdrop background",
                             },
                             
                             {
                                 url: "./images/boss-backdrop.jpg",
-                                code: 'setBackdropURL("./docs/images/boss-backdrop.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/boss-backdrop.jpg")\nsetBackdropStyle("cover")',
                                 tags: "boss space",
                             },
                             
                             {
                                 url: "./images/minecraft.jpg",
-                                code: 'setBackdropURL("./docs/images/minecraft.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/minecraft.jpg")\nsetBackdropStyle("cover")',
                                 tags: "minecraft backdrop background",
                             },
                           
                             {
                                 url: "./images/snow.jpg",
-                                code: 'setBackdropURL("./docs/images/snow.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/snow.jpg")\nsetBackdropStyle("cover")',
                                 tags: "snow mountain backdrop background",
                             }, {
                                 url: "./images/outerspace.jpg",
-                                code: 'setBackdropURL("./docs/images/outerspace.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/outerspace.jpg")\nsetBackdropStyle("cover")',
                                 tags: "outer space mountain backdrop background",
                             },
 
                             {
                                 url: "./images/ocean.jpg",
-                                code: 'setBackdropURL("./docs/images/ocean.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/ocean.jpg")\nsetBackdropStyle("cover")',
                                 tags: "ocean backdrop background sea",
                             }, 
                             
                             {
                                 url: "./images/bubbles-backdrop.jpeg",
-                                code: 'setBackdropURL("./docs/images/bubbles-backdrop.jpeg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/bubbles-backdrop.jpeg")\nsetBackdropStyle("cover")',
                                 tags: "bubble",
                             }, 
                             
                             {
                                 url: "./images/rr-backdrop.jpg",
-                                code: 'setBackdropURL("./docs/images/rr-backdrop.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/rr-backdrop.jpg")\nsetBackdropStyle("cover")',
                                 tags: "grass",
                             }, 
                             
                             {
                                 url: "./images/tomato-attack-backdrop.jpg",
-                                code: 'setBackdropURL("./docs/images/tomato-attack-backdrop.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/tomato-attack-backdrop.jpg")\nsetBackdropStyle("cover")',
                                 tags: "tomato outdoors",
                             },
                             
                             {
                                 url: "./images/war-backdrop.png",
-                                code: 'setBackdropURL("./docs/images/war-backdrop.png")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/war-backdrop.png")\nsetBackdropStyle("cover")',
                                 tags: "blue",
                             }, 
                             
                             {
                                 url: "./images/hungrycrab-backdrop.jpg",
-                                code: 'setBackdropURL("./docs/images/hungrycrab-backdrop.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/hungrycrab-backdrop.jpg")\nsetBackdropStyle("cover")',
                                 tags: "ocean water",
                             }, 
                             
                             {
                                 url: "./images/platformer-backdrop1.png",
-                                code: 'setBackdropURL("./docs/images/platformer-backdrop1.png")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/platformer-backdrop1.png")\nsetBackdropStyle("cover")',
                                 tags: "platform mountain",
                             }, 
                             
                             {
                                 url: "./images/platformer-backdrop2.png",
-                                code: 'setBackdropURL("./docs/images/platformer-backdrop2.png")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/platformer-backdrop2.png")\nsetBackdropStyle("cover")',
                                 tags: "tree mountain outside",
                             }, 
                             
                             {
                                 url: "./images/emojibackground.jpg",
-                                code: 'setBackdropURL("./docs/images/emojibackground.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/emojibackground.jpg")\nsetBackdropStyle("cover")',
                                 tags: "emoji backdrop background",
                             },
 
                             {
                                 url: "./images/galaxy.jpg",
-                                code: 'setBackdropURL("./docs/images/galaxy.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/galaxy.jpg")\nsetBackdropStyle("cover")',
                                 tags: "galaxy outer space backdrop background",
                             },
 
                             {
                                 url: "./images/harrypotter.jpg",
-                                code: 'setBackdropURL("./docs/images/harrypotter.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/harrypotter.jpg")\nsetBackdropStyle("cover")',
                                 tags: "harry potter backdrop background",
                             },
 
                             {
                                 url: "./images/starwars.jpg",
-                                code: 'setBackdropURL("./docs/images/starwars.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/starwars.jpg")\nsetBackdropStyle("cover")',
                                 tags: "star wars backdrop background",
                             },
 
                             {
                                 url: "./images/marioback.jpg",
-                                code: 'setBackdropURL("./docs/images/marioback.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/marioback.jpg")\nsetBackdropStyle("cover")',
                                 tags: "mario background backdrop",
                             },
 
                             {
                                 url: "./images/soccer.jpg",
-                                code: 'setBackdropURL("./docs/images/soccer.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/soccer.jpg")\nsetBackdropStyle("cover")',
                                 tags: "soccer background backdrop",
                             },
 
                             {
                                 url: "./images/flappyback.png",
-                                code: 'setBackdropURL("./docs/images/flappyback.png")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/flappyback.png")\nsetBackdropStyle("cover")',
                                 tags: "flappy bird background backdrop",
                             },
 
                             {
                                 url: "./images/desert.jpg",
-                                code: 'setBackdropURL("./docs/images/desert.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/desert.jpg")\nsetBackdropStyle("cover")',
                                 tags: "desert background backdrop",
                             },
 
                             {
                                 url: "./images/grass.jpg",
-                                code: 'setBackdropURL("./docs/images/grass.jpg")\nsetBackdropStyle("cover")',
+                                code: 'setBackdropURL("https://woofjs.com/docs/images/grass.jpg")\nsetBackdropStyle("cover")',
                                 tags: "golf grass background backdrop",
                             },
 
@@ -404,452 +404,452 @@ var updateColor = function(e) {
                             },
                             {
                                 url: "./images/kpU9y5M.png",
-                                code: 'var unicorn = new Image({\n  url: "./docs/images/unicorn.png",\n  width: 120, \n  height: 80,\n})',
+                                code: 'var unicorn = new Image({\n  url: "https://woofjs.com/docs/images/unicorn.png",\n  width: 120, \n  height: 80,\n})',
                                 tags: "unicorn sprite animal",
                             },
 
                             {
                                 url: "./images/SuJhyZq.png",
-                                code: 'var bb8 = new Image({\n  url: "./docs/images/BB8.png",\n  width: 150, \n  height: 220,\n})',
+                                code: 'var bb8 = new Image({\n  url: "https://woofjs.com/docs/images/BB8.png",\n  width: 150, \n  height: 220,\n})',
                                 tags: "bb8 star wars sprite",
                             },
                             
                              {
                                 url: "./images/2lhEgxT.png",
-                                code: 'var sushi = new Image({\n  url: "./docs/images/sushi.png",\n  width: 110, \n  height: 80,\n})',
+                                code: 'var sushi = new Image({\n  url: "https://woofjs.com/docs/images/sushi.png",\n  width: 110, \n  height: 80,\n})',
                                 tags: "sushi sprite",
                             },
                             
                              {
                                 url: "./images/zp0zzaG.png",
-                                code: 'var nyanCat = new Image({\n  url: "./docs/images/nyancat.png",\n  width: 160, \n  height: 80,\n})',
+                                code: 'var nyanCat = new Image({\n  url: "https://woofjs.com/docs/images/nyancat.png",\n  width: 160, \n  height: 80,\n})',
                                 tags: "cat sprite rainbow animal",
                             },
                             
                              {
                                 url: "./images/4B3ex6S.png",
-                                code: 'var car = new Image({\n  url: "./docs/images/car.png",\n  width: 250, \n  height: 80,\n})',
+                                code: 'var car = new Image({\n  url: "https://woofjs.com/docs/images/car.png",\n  width: 250, \n  height: 80,\n})',
                                 tags: "car sprite",
                             },
 
                             {
                                 url: "./images/Q4zxvEN.png",
-                                code: 'var pikachu = new Image({\n  url: "./docs/images/pikachu.png",\n  width: 120, \n  height: 100,\n})',
+                                code: 'var pikachu = new Image({\n  url: "https://woofjs.com/docs/images/pikachu.png",\n  width: 120, \n  height: 100,\n})',
                                 tags: "pikachu sprite animal",
                             },
 
                             {
                                 url: "./images/G7PpFgz.png",
-                                code: 'var taco = new Image({\n  url: "./docs/images/taco.png",\n  width: 300, \n  height: 170,\n})',
+                                code: 'var taco = new Image({\n  url: "https://woofjs.com/docs/images/taco.png",\n  width: 300, \n  height: 170,\n})',
                                 tags: "taco sprite food",
                             },
                             
                             {
                                 url: "./images/ajkO60k.png",
-                                code: 'var iceCream = new Image({\n  url: "./docs/images/icecream.png",\n  width: 130, \n  height: 170,\n})',
+                                code: 'var iceCream = new Image({\n  url: "https://woofjs.com/docs/images/icecream.png",\n  width: 130, \n  height: 170,\n})',
                                 tags: "ice cream sprite food",
                             },
 
                             {
                                 url: "./images/mZnRmHr.png",
-                                code: 'var minecraft = new Image({\n  url: "./docs/images/minecraft.png",\n  width: 120, \n  height: 100,\n})',
+                                code: 'var minecraft = new Image({\n  url: "https://woofjs.com/docs/images/minecraft.png",\n  width: 120, \n  height: 100,\n})',
                                 tags: "minecraft sprite person",
                             },
 
                             {
                                 url: "./images/614de0J.jpg",
-                                code: 'var mario = new Image({\n  url: "./docs/images/mario.png",\n  width: 150, \n  height: 200,\n})',
+                                code: 'var mario = new Image({\n  url: "https://woofjs.com/docs/images/mario.png",\n  width: 150, \n  height: 200,\n})',
                                 tags: "mario sprite person",
                             },
 
                             {
                                 url: "./images/0ioLJsk.jpg",
-                                code: 'var cupcake = new Image({\n  url: "./docs/images/cupcake.png",\n  width: 170, \n  height: 170,\n})',
+                                code: 'var cupcake = new Image({\n  url: "https://woofjs.com/docs/images/cupcake.png",\n  width: 170, \n  height: 170,\n})',
                                 tags: "cupcake sprite food",
                             },
 
                             {
                                 url: "./images/FArFDtL.png",
-                                code: 'var snitch = new Image({\n  url: "./docs/images/snitch.png",\n  width: 250, \n  height: 150,\n})',
+                                code: 'var snitch = new Image({\n  url: "https://woofjs.com/docs/images/snitch.png",\n  width: 250, \n  height: 150,\n})',
                                 tags: "snitch harry potter sprite",
                             },
                             
                             {
                                 url: "./images/Gf0MwWP.png",
-                                code: 'var bird = new Image({\n  url: "./docs/images/bird.png",\n  width: 120, \n  height: 80,\n})',
+                                code: 'var bird = new Image({\n  url: "https://woofjs.com/docs/images/bird.png",\n  width: 120, \n  height: 80,\n})',
                                 tags: "flappy bird sprite animal",
                             },
 
                             {
                                 url: "./images/SepKsyn.png",
-                                code: 'var puppy = new Image({\n  url: "./docs/images/puppy.png",\n  width: 150, \n  height: 210,\n})',
+                                code: 'var puppy = new Image({\n  url: "https://woofjs.com/docs/images/puppy.png",\n  width: 150, \n  height: 210,\n})',
                                 tags: "puppy dog animal sprite",
                             },
 
                             {
                                 url: "./images/fnKpvEY.png",
-                                code: 'var pusheen = new Image({\n  url: "./docs/images/pusheen.png",\n  width: 120, \n  height: 80,\n})',
+                                code: 'var pusheen = new Image({\n  url: "https://woofjs.com/docs/images/pusheen.png",\n  width: 120, \n  height: 80,\n})',
                                 tags: "pusheen cat animal sprite",
                             },
 
                             {
                                 url: "./images/GfYgZJo.png",
-                                code: 'var spiderman = new Image({\n  url: "./docs/images/spiderman.png",\n  width: 150, \n  height: 170,\n})',
+                                code: 'var spiderman = new Image({\n  url: "https://woofjs.com/docs/images/spiderman.png",\n  width: 150, \n  height: 170,\n})',
                                 tags: "spiderman person sprite",
                             },
 
                             {
                                 url: "./images/50LlixQ.png",
-                                code: 'var apple = new Image({\n  url: "./docs/images/apple.png",\n  width: 150, \n  height: 170,\n})',
+                                code: 'var apple = new Image({\n  url: "https://woofjs.com/docs/images/apple.png",\n  width: 150, \n  height: 170,\n})',
                                 tags: "apple food sprite",
                             },
 
                             {
                                 url: "./images/B4kqEPt.png",
-                                code: 'var spaceShip = new Image({\n  url: "./docs/images/space_ship.png",\n  width: 300, \n  height: 170,\n})',
+                                code: 'var spaceShip = new Image({\n  url: "https://woofjs.com/docs/images/space_ship.png",\n  width: 300, \n  height: 170,\n})',
                                 tags: "space ship sprite",
                             },
                             
                             {
                                 url: "./images/9EkQfhM.png",
-                                code: 'var coolEmoji = new Image({\n  url: "./docs/images/emoji-glasses.png",\n  width: 120, \n  height: 120,\n})',
+                                code: 'var coolEmoji = new Image({\n  url: "https://woofjs.com/docs/images/emoji-glasses.png",\n  width: 120, \n  height: 120,\n})',
                                 tags: "glasses emoji sprite",
                             },
                             
                             {
                                 url: "./images/9BTkkuc.png",
-                                code: 'var emoji = new Image({\n  url: "./docs/images/emoji.png",\n  width: 120, \n  height: 120,\n})',
+                                code: 'var emoji = new Image({\n  url: "https://woofjs.com/docs/images/emoji.png",\n  width: 120, \n  height: 120,\n})',
                                 tags: "emoji heart eyes sprite",
                             },
                                                       
                              {
                                 url: "./images/rGnUiWC.png",
-                                code: 'var sadEmoji = new Image({\n  url: "./docs/images/emojilaugh.png",\n  width: 120, \n  height: 120,\n})',
+                                code: 'var sadEmoji = new Image({\n  url: "https://woofjs.com/docs/images/emojilaugh.png",\n  width: 120, \n  height: 120,\n})',
                                 tags: "sad laugh emoji sprite",
                             },
                             
                              {
                                 url: "./images/B9v5lZJ.png",
-                                code: 'var partyEmoji = new Image({\n  url: "./docs/images/emoji-party.png",\n  width: 120, \n  height: 120,\n})',
+                                code: 'var partyEmoji = new Image({\n  url: "https://woofjs.com/docs/images/emoji-party.png",\n  width: 120, \n  height: 120,\n})',
                                 tags: "party hat emoji sprite",
                             },
                             
                               {
                                 url: "./images/ZU8UBCM.png",
-                                code: 'var puppyEmoji = new Image({\n  url: "./docs/images/emojipuppy.png",\n  width: 120, \n  height: 120,\n})',
+                                code: 'var puppyEmoji = new Image({\n  url: "https://woofjs.com/docs/images/emojipuppy.png",\n  width: 120, \n  height: 120,\n})',
                                 tags: "dog puppy animal emoji sprite",
                             },
                             
                                {
                                 url: "./images/zzNfW5S.png",
-                                code: 'var sillyEmoji = new Image({\n  url: "./docs/images/emojieyes.jpg",\n  width: 120, \n  height: 120,\n})',
+                                code: 'var sillyEmoji = new Image({\n  url: "https://woofjs.com/docs/images/emojieyes.jpg",\n  width: 120, \n  height: 120,\n})',
                                 tags: "silly tongue emoji sprite",
                             },
 
                             {
                                 url: "./images/8rBZ8cu.png",
-                                code: 'var dragon = new Image({\n  url: "./docs/images/dragon.png",\n  width: 300, \n  height: 170,\n})',
+                                code: 'var dragon = new Image({\n  url: "https://woofjs.com/docs/images/dragon.png",\n  width: 300, \n  height: 170,\n})',
                                 tags: "dragon animal sprite",
                             },
 
                             {
                                 url: "./images/tt5zoZq.png",
-                                code: 'var elephant = new Image({\n  url: "./docs/images/elephant.png",\n  width: 200, \n  height: 170,\n})',
+                                code: 'var elephant = new Image({\n  url: "https://woofjs.com/docs/images/elephant.png",\n  width: 200, \n  height: 170,\n})',
                                 tags: "elephant animal sprite",
                             },
 
                             {
                                 url: "./images/uvKjnQI.png",
-                                code: 'var soccer = new Image({\n  url: "./docs/images/soccer.png",\n  width: 180, \n  height: 200,\n})',
+                                code: 'var soccer = new Image({\n  url: "https://woofjs.com/docs/images/soccer.png",\n  width: 180, \n  height: 200,\n})',
                                 tags: "soccer ball sprite",
                             },
                             {
                                 url: "./images/rocket.png",
-                                code: 'var rocket = new Image({\n  url: "./docs/images/rocket.png",\n  width: 120, \n  height: 60,\n})',
+                                code: 'var rocket = new Image({\n  url: "https://woofjs.com/docs/images/rocket.png",\n  width: 120, \n  height: 60,\n})',
                                 tags: "rocket ship sprite",
                             },
                             {
                                 url: "./images/crab.png",
-                                code: 'var crab = new Image({\n  url: "./docs/images/crab.png",\n  width: 150, \n  height: 100,\n})',
+                                code: 'var crab = new Image({\n  url: "https://woofjs.com/docs/images/crab.png",\n  width: 150, \n  height: 100,\n})',
                                 tags: "crab animal sprite",
                             },
                             {
                                 url: "./images/fish.png",
-                                code: 'var fish = new Image({\n  url: "./docs/images/fish.png",\n  width: 70, \n  height: 30,\n})',
+                                code: 'var fish = new Image({\n  url: "https://woofjs.com/docs/images/fish.png",\n  width: 70, \n  height: 30,\n})',
                                 tags: "fish animal sprite",
                             },
                             {
                                 url: "./images/bottomPipe.png",
-                                code: 'var bottomPipe = new Image({\n  url: "./docs/images/bottomPipe.png",\n  width: 100, \n  height: 500,\n})',
+                                code: 'var bottomPipe = new Image({\n  url: "https://woofjs.com/docs/images/bottomPipe.png",\n  width: 100, \n  height: 500,\n})',
                                 tags: "bottom pipe flappy bird sprite",
                             },
                             {
                                 url: "./images/topPipe.png",
-                                code: 'var topPipe = new Image({\n  url: "./docs/images/topPipe.png",\n  width: 100, \n  height: 500,\n})',
+                                code: 'var topPipe = new Image({\n  url: "https://woofjs.com/docs/images/topPipe.png",\n  width: 100, \n  height: 500,\n})',
                                 tags: "top pipe flappy bird sprite",
                             },
                             
                             {
                                 url: "./images/explosion.png",
-                                code: 'var explosion = new Image({\n  url: "./docs/images/explosion.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var explosion = new Image({\n  url: "https://woofjs.com/docs/images/explosion.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "explosion sprite",
                             },
                             
                             {
                                 url: "./images/boss-bomb.png",
-                                code: 'var bomb = new Image({\n  url: "./docs/images/boss-bomb.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var bomb = new Image({\n  url: "https://woofjs.com/docs/images/boss-bomb.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "bomb sprite",
                             },
                             
                             {
                                 url: "./images/boss-blaser.png",
-                                code: 'var bossLaser = new Image({\n  url: "./docs/images/boss-blaser.png",\n  width: 120, \n  height: 80,\n})',
+                                code: 'var bossLaser = new Image({\n  url: "https://woofjs.com/docs/images/boss-blaser.png",\n  width: 120, \n  height: 80,\n})',
                                 tags: "laser sprite",
                             },
                             
                             {
                                 url: "./images/boss-boss.png",
-                                code: 'var bossShip = new Image({\n  url: "./docs/images/boss-boss.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var bossShip = new Image({\n  url: "https://woofjs.com/docs/images/boss-boss.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "boss ship sprite",
                             },
                             
                             {
                                 url: "./images/boss-laser.png",
-                                code: 'var laser2 = new Image({\n  url: "./docs/images/boss-laser.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var laser2 = new Image({\n  url: "https://woofjs.com/docs/images/boss-laser.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "laser sprite",
                             },
                             
                             {
                                 url: "./images/boss-ship.png",
-                                code: 'var bossShip2 = new Image({\n  url: "./docs/images/boss-ship.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var bossShip2 = new Image({\n  url: "https://woofjs.com/docs/images/boss-ship.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "ship sprite",
                             },
                             
                             {
                                 url: "./images/boss-warning.jpg",
-                                code: 'var warning = new Image({\n  url: "./docs/images/boss-warning.jpg",\n  width: 100, \n  height: 80,\n})',
+                                code: 'var warning = new Image({\n  url: "https://woofjs.com/docs/images/boss-warning.jpg",\n  width: 100, \n  height: 80,\n})',
                                 tags: "warning sprite",
                             },
                             
                             {
                                 url: "./images/bubbles-bowl.png",
-                                code: 'var candyBowl = new Image({\n  url: "./docs/images/bubbles-bowl.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var candyBowl = new Image({\n  url: "https://woofjs.com/docs/images/bubbles-bowl.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "candy bowl sprite",
                             },
                             
                             {
                                 url: "./images/bubbles-candy.png",
-                                code: 'var candy = new Image({\n  url: "./docs/images/bubbles-candy.png",\n  width: 100, \n  height: 60,\n})',
+                                code: 'var candy = new Image({\n  url: "https://woofjs.com/docs/images/bubbles-candy.png",\n  width: 100, \n  height: 60,\n})',
                                 tags: "candy sprite",
                             },
                             
                             {
                                 url: "./images/bubbles-girl.png",
-                                code: 'var girl = new Image({\n  url: "./docs/images/bubbles-girl.png",\n  width: 70, \n  height: 100,\n})',
+                                code: 'var girl = new Image({\n  url: "https://woofjs.com/docs/images/bubbles-girl.png",\n  width: 70, \n  height: 100,\n})',
                                 tags: "girl sprite",
                             },
                             
                             {
                                 url: "./images/bubbles-wand.png",
-                                code: 'var bubbleWand = new Image({\n  url: "./docs/images/bubbles-wand.png",\n  width: 70, \n  height: 100,\n})',
+                                code: 'var bubbleWand = new Image({\n  url: "https://woofjs.com/docs/images/bubbles-wand.png",\n  width: 70, \n  height: 100,\n})',
                                 tags: "wand sprite",
                             },
                             
                             {
                                 url: "./images/candyland-mint.png",
-                                code: 'var mint = new Image({\n  url: "./docs/images/candyland-mint.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var mint = new Image({\n  url: "https://woofjs.com/docs/images/candyland-mint.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "mint food sprite",
                             },
                             
                             {
                                 url: "./images/candyland-obstacle.png",
-                                code: 'var lollipop = new Image({\n  url: "./docs/images/candyland-obstacle.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var lollipop = new Image({\n  url: "https://woofjs.com/docs/images/candyland-obstacle.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "lollipop food sprite",
                             },
                             
                             {
                                 url: "./images/fly-fly.png",
-                                code: 'var fly = new Image({\n  url: "./docs/images/fly-fly.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var fly = new Image({\n  url: "https://woofjs.com/docs/images/fly-fly.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "fly animal sprite",
                             },
                             
                             {
                                 url: "./images/fly-frog.png",
-                                code: 'var frog = new Image({\n  url: "./docs/images/fly-frog.png",\n  width: 120, \n  height: 90,\n})',
+                                code: 'var frog = new Image({\n  url: "https://woofjs.com/docs/images/fly-frog.png",\n  width: 120, \n  height: 90,\n})',
                                 tags: "frog animal sprite",
                             },
                             
                             {
                                 url: "./images/fly-lilypad.png",
-                                code: 'var lilypad = new Image({\n  url: "./docs/images/fly-lilypad.png",\n  width: 100, \n  height: 85,\n})',
+                                code: 'var lilypad = new Image({\n  url: "https://woofjs.com/docs/images/fly-lilypad.png",\n  width: 100, \n  height: 85,\n})',
                                 tags: "lilypad sprite",
                             },
                             
                             {
                                 url: "./images/magic-dove.jpg",
-                                code: 'var dove = new Image({\n  url: "./docs/images/magic-dove.jpg",\n  width: 100, \n  height: 105,\n})',
+                                code: 'var dove = new Image({\n  url: "https://woofjs.com/docs/images/magic-dove.jpg",\n  width: 100, \n  height: 105,\n})',
                                 tags: "dove animal sprite",
                             },
                             
                             {
                                 url: "./images/magic-hat.png",
-                                code: 'var hat = new Image({\n  url: "./docs/images/magic-hat.png",\n  width: 100, \n  height: 90,\n})',
+                                code: 'var hat = new Image({\n  url: "https://woofjs.com/docs/images/magic-hat.png",\n  width: 100, \n  height: 90,\n})',
                                 tags: "hat clothing sprite",
                             },
                             
                             {
                                 url: "./images/picnic-basket.png",
-                                code: 'var picnicBasket = new Image({\n  url: "./docs/images/picnic-basket.png",\n  width: 110, \n  height: 80,\n})',
+                                code: 'var picnicBasket = new Image({\n  url: "https://woofjs.com/docs/images/picnic-basket.png",\n  width: 110, \n  height: 80,\n})',
                                 tags: "picnic basket sprite",
                             },
                             
                             {
                                 url: "./images/picnic-cheese.png",
-                                code: 'var cheese = new Image({\n  url: "./docs/images/picnic-cheese.png",\n  width: 100, \n  height: 60,\n})',
+                                code: 'var cheese = new Image({\n  url: "https://woofjs.com/docs/images/picnic-cheese.png",\n  width: 100, \n  height: 60,\n})',
                                 tags: "cheese food sprite",
                             },
                             
                             {
                                 url: "./images/picnic-eat.png",
-                                code: 'var picnic = new Image({\n  url: "./docs/images/picnic-eat.png",\n  width: 110, \n  height: 110,\n})',
+                                code: 'var picnic = new Image({\n  url: "https://woofjs.com/docs/images/picnic-eat.png",\n  width: 110, \n  height: 110,\n})',
                                 tags: "picnic people sprite",
                             },
                             
                             {
                                 url: "./images/picnic-milk.png",
-                                code: 'var milk = new Image({\n  url: "./docs/images/picnic-milk.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var milk = new Image({\n  url: "https://woofjs.com/docs/images/picnic-milk.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "picnic milk food sprite",
                             },
                             
                             {
                                 url: "./images/picnic-sandwich.png",
-                                code: 'var sandwich = new Image({\n  url: "./docs/images/picnic-sandwich.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var sandwich = new Image({\n  url: "https://woofjs.com/docs/images/picnic-sandwich.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "sandwich food sprite",
                             },
                             
                             {
                                 url: "./images/picnic-watermelon.png",
-                                code: 'var watermelon = new Image({\n  url: "./docs/images/picnic-watermelon.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var watermelon = new Image({\n  url: "https://woofjs.com/docs/images/picnic-watermelon.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "watermelon food sprite",
                             },
                             
                             {
                                 url: "./images/platformer-boss.png",
-                                code: 'var boss1 = new Image({\n  url: "./docs/images/platformer-boss.png",\n  width: 90, \n  height: 90,\n})',
+                                code: 'var boss1 = new Image({\n  url: "https://woofjs.com/docs/images/platformer-boss.png",\n  width: 90, \n  height: 90,\n})',
                                 tags: "platformer boss animal sprite",
                             },
                             
                             {
                                 url: "./images/platformer-boss2.png",
-                                code: 'var boss2 = new Image({\n  url: "./docs/images/platformer-boss.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var boss2 = new Image({\n  url: "https://woofjs.com/docs/images/platformer-boss.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "platformer boss animal sprite",
                             },
                             
                             {
                                 url: "./images/platformer-enemy.png",
-                                code: 'var enemy = new Image({\n  url: "./docs/images/platformer-enemy.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var enemy = new Image({\n  url: "https://woofjs.com/docs/images/platformer-enemy.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "platformer boss animal sprite",
                             },
                             
                             {
                                 url: "./images/platformer-enemy2.png",
-                                code: 'var enemy2 = new Image({\n  url: "./docs/images/platformer-enemy2.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var enemy2 = new Image({\n  url: "https://woofjs.com/docs/images/platformer-enemy2.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "platformer boss animal sprite",
                             },
                             
                             {
                                 url: "./images/platformer-game-over.png",
-                                code: 'var gameOver = new Image({\n  url: "./docs/images/platformer-game-over.png",\n  width: 100, \n  height: 90,\n})',
+                                code: 'var gameOver = new Image({\n  url: "https://woofjs.com/docs/images/platformer-game-over.png",\n  width: 100, \n  height: 90,\n})',
                                 tags: "game over sprite",
                             },
                             
                             {
                                 url: "./images/platformer-heart.png",
-                                code: 'var pixelHeart = new Image({\n  url: "./docs/images/platformer-heart.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var pixelHeart = new Image({\n  url: "https://woofjs.com/docs/images/platformer-heart.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "heart shape sprite",
                             },
                             
                             {
                                 url: "./images/platformer-next-level.png",
-                                code: 'var nextLevel = new Image({\n  url: "./docs/images/platformer-next-level.png",\n  width: 130, \n  height: 120,\n})',
+                                code: 'var nextLevel = new Image({\n  url: "https://woofjs.com/docs/images/platformer-next-level.png",\n  width: 130, \n  height: 120,\n})',
                                 tags: "next level sprite",
                             },
                             
                             {
                                 url: "./images/platformer-player.png",
-                                code: 'var player = new Image({\n  url: "./docs/images/platformer-player.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var player = new Image({\n  url: "https://woofjs.com/docs/images/platformer-player.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "player sprite",
                             },
                             
                              {
                                 url: "./images/platformer-you-win.png",
-                                code: 'var youWin = new Image({\n  url: "./docs/images/platformer-you-win.png",\n  width: 110, \n  height: 110,\n})',
+                                code: 'var youWin = new Image({\n  url: "https://woofjs.com/docs/images/platformer-you-win.png",\n  width: 110, \n  height: 110,\n})',
                                 tags: "you win sprite",
                             },
                             
                             {
                                 url: "./images/river-canoe1.png",
-                                code: 'var canoe = new Image({\n  url: "./docs/images/river-canoe1.png",\n  width: 30, \n  height: 130,\n})',
+                                code: 'var canoe = new Image({\n  url: "https://woofjs.com/docs/images/river-canoe1.png",\n  width: 30, \n  height: 130,\n})',
                                 tags: "canoe boat river sprite",
                             },
                             
                             {
                                 url: "./images/river-coconut.png",
-                                code: 'var coconut = new Image({\n  url: "./docs/images/river-coconut.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var coconut = new Image({\n  url: "https://woofjs.com/docs/images/river-coconut.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "coconut food sprite",
                             },
                             
                             {
                                 url: "./images/river-gator.png",
-                                code: 'var gator = new Image({\n  url: "./docs/images/river-gator.png",\n  width: 130, \n  height: 80,\n})',
+                                code: 'var gator = new Image({\n  url: "https://woofjs.com/docs/images/river-gator.png",\n  width: 130, \n  height: 80,\n})',
                                 tags: "gator animal sprite",
                             },
                             
                             {
                                 url: "./images/river-tree.png",
-                                code: 'var tree = new Image({\n  url: "./docs/images/river-tree.png",\n  width: 90, \n  height: 130,\n})',
+                                code: 'var tree = new Image({\n  url: "https://woofjs.com/docs/images/river-tree.png",\n  width: 90, \n  height: 130,\n})',
                                 tags: "tree sprite",
                             },
                             
                             {
                                 url: "./images/rr-gameover.png",
-                                code: 'var gameOver2 = new Image({\n  url: "./docs/images/rr-gameover.png",\n  width: 140, \n  height: 90,\n})',
+                                code: 'var gameOver2 = new Image({\n  url: "https://woofjs.com/docs/images/rr-gameover.png",\n  width: 140, \n  height: 90,\n})',
                                 tags: "game over sprite",
                             },
                             
                             {
                                 url: "./images/rr-planet.png",
-                                code: 'var planet = new Image({\n  url: "./docs/images/rr-planet.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var planet = new Image({\n  url: "https://woofjs.com/docs/images/rr-planet.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "planet sprite",
                             },
                             
                             {
                                 url: "./images/rr-star.png",
-                                code: 'var star = new Image({\n  url: "./docs/images/rr-star.png",\n  width: 100, \n  height: 100,\n})',
+                                code: 'var star = new Image({\n  url: "https://woofjs.com/docs/images/rr-star.png",\n  width: 100, \n  height: 100,\n})',
                                 tags: "star sprite",
                             },
                             
                             {
                                 url: "./images/squidchase-fish.png",
-                                code: 'var fish = new Image({\n  url: "./docs/images/squidchase-fish.png",\n  width: 100, \n  height: 115,\n})',
+                                code: 'var fish = new Image({\n  url: "https://woofjs.com/docs/images/squidchase-fish.png",\n  width: 100, \n  height: 115,\n})',
                                 tags: "fish sprite",
                             },
                             
                             {
                                 url: "./images/squidchase-squid.png",
-                                code: 'var squid = new Image({\n  url: "./docs/images/squidchase-squid.png",\n  width: 100, \n  height: 115,\n})',
+                                code: 'var squid = new Image({\n  url: "https://woofjs.com/docs/images/squidchase-squid.png",\n  width: 100, \n  height: 115,\n})',
                                 tags: "squid animal sprite",
                             },
                             
                             {
                                 url: "./images/tomato-attack-splat.png",
-                                code: 'var splat = new Image({\n  url: "./docs/images/tomato-attack-splat.png",\n  width: 110, \n  height: 100,\n})',
+                                code: 'var splat = new Image({\n  url: "https://woofjs.com/docs/images/tomato-attack-splat.png",\n  width: 110, \n  height: 100,\n})',
                                 tags: "splat sprite",
                             },
                             
                             {
                                 url: "./images/tomato-attack-tomato.png",
-                                code: 'var tomato = new Image({\n  url: "./docs/images/tomato-attack-tomato.png",\n  width: 110, \n  height: 100,\n})',
+                                code: 'var tomato = new Image({\n  url: "https://woofjs.com/docs/images/tomato-attack-tomato.png",\n  width: 110, \n  height: 100,\n})',
                                 tags: "tomato food sprite",
                             },
                         
@@ -1128,7 +1128,7 @@ var updateColor = function(e) {
                     {
                         url:"./images/sayAndThink.png",
                         description:"These blocks do not exist in WoofJS, but you can use text for a similar effect. Here is an example:",
-                        code:'// First create your speech bubble image sprite\nvar speechBubble = new Image({\n  url: "./docs/images/speechBubble.png",\n  width: 150, \n  height: 75,\n})\n// Then create text\nvar text = new Text({\n text: () => "Hello!", \n size: 25\n})\nforever(() => {\n // Align the speech bubble with your sprite\n // uncomment the following lines and change sprite1 to the name of your sprite:\n // speechBubble.x = sprite1.x + (speechBubble.width / 2) + (sprite1.width / 2)\n // speechBubble.y = sprite1.y + (speechBubble.height / 2) + (sprite1.height / 2)\n // Keep the text aligned with the bubble \n text.x = speechBubble.x\n text.y = speechBubble.y + 10\n})',
+                        code:'// First create your speech bubble image sprite\nvar speechBubble = new Image({\n  url: "https://woofjs.com/docs/images/speechBubble.png",\n  width: 150, \n  height: 75,\n})\n// Then create text\nvar text = new Text({\n text: () => "Hello!", \n size: 25\n})\nforever(() => {\n // Align the speech bubble with your sprite\n // uncomment the following lines and change sprite1 to the name of your sprite:\n // speechBubble.x = sprite1.x + (speechBubble.width / 2) + (sprite1.width / 2)\n // speechBubble.y = sprite1.y + (speechBubble.height / 2) + (sprite1.height / 2)\n // Keep the text aligned with the bubble \n text.x = speechBubble.x\n text.y = speechBubble.y + 10\n})',
                         tags:"looks say think hello seconds"
                     },
                     {html:"<hr style=\"height:7px;border:none;color:#e0e0e0;background-color:#e0e0e0;\"/>"},
@@ -1334,82 +1334,82 @@ var updateColor = function(e) {
                     Sound: [{
                         sound: "./sounds/mario-jump.wav",
                         url: "./images/playmario.png",
-                        code: 'var mario = new Sound({\n  url: "./docs/sounds/mario-jump.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nmario.startPlaying()',
+                        code: 'var mario = new Sound({\n  url: "https://woofjs.com/docs/sounds/mario-jump.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nmario.startPlaying()',
                         tags: "music play sounds audio"
                     }, {
                         sound: "./sounds/asteroids-saucer.wav",
                         url: "./images/asteroids-saucer.png",
-                        code: 'var saucer = new Sound({\n  url: "./docs/sounds/asteroids-saucer.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nsaucer.startPlaying()',
+                        code: 'var saucer = new Sound({\n  url: "https://woofjs.com/docs/sounds/asteroids-saucer.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nsaucer.startPlaying()',
                         tags: "music play sounds audio"
                     }, {
                         sound: "./sounds/alien.mp3",
                         url: "./images/playalien.png",
-                        code:  'var alien = new Sound({\n  url: "./docs/sounds/alien.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nalien.startPlaying()',
+                        code:  'var alien = new Sound({\n  url: "https://woofjs.com/docs/sounds/alien.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nalien.startPlaying()',
                         tags: "music play sounds audio"
                     }, {
                         sound: "./sounds/applause.mp3",
                         url: "./images/playapplause.png",
-                        code: 'var applause = new Sound({\n  url: "./docs/sounds/applause.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\napplause.startPlaying()',
+                        code: 'var applause = new Sound({\n  url: "https://woofjs.com/docs/sounds/applause.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\napplause.startPlaying()',
                         tags: "applause music play sounds audio"
                     }, {
                         sound: "./sounds/bark.mp3",
                         url: "./images/playbark.png",
-                        code: 'var bark = new Sound({\n  url: "./docs/sounds/bark.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nbark.startPlaying()',
+                        code: 'var bark = new Sound({\n  url: "https://woofjs.com/docs/sounds/bark.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nbark.startPlaying()',
                         tags: "bark dog music play sounds audio"
                     }, {
                         sound: "./sounds/switch.mp3",
                         url: "./images/playswitch.png",
-                        code: 'var switchSound = new Sound({\n  url: "./docs/sounds/switch.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nswitchSound.startPlaying()',
+                        code: 'var switchSound = new Sound({\n  url: "https://woofjs.com/docs/sounds/switch.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nswitchSound.startPlaying()',
                         tags: "switch music play sounds audio"
                     }, {
                         sound: "./sounds/mario-coin.wav",
                         url: "./images/playlevel.png",
-                        code: 'var levelUp = new Sound({\n  url: "./docs/sounds/mario-coin.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nlevelUp.startPlaying()',
+                        code: 'var levelUp = new Sound({\n  url: "https://woofjs.com/docs/sounds/mario-coin.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nlevelUp.startPlaying()',
                         tags: "mario music level play sounds audio"
                     }, {
                         sound: "./sounds/meow.mp3",
                         url: "./images/68747470733a2f2f692e696d6775722e636f6d2f4c387a6e6d4f622e706e67",
-                        code: 'var meow = new Sound({\n  url: "./docs/sounds/meow.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nmeow.startPlaying()',
+                        code: 'var meow = new Sound({\n  url: "https://woofjs.com/docs/sounds/meow.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nmeow.startPlaying()',
                         tags: "meow cat music play sounds audio"
                     }, {
                         sound: "./sounds/text-alert.mp3",
                         url: "./images/playtext.png",
-                        code: 'var textAlert = new Sound({\n  url: "./docs/sounds/text-alert.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\ntextAlert.startPlaying()',
+                        code: 'var textAlert = new Sound({\n  url: "https://woofjs.com/docs/sounds/text-alert.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\ntextAlert.startPlaying()',
                         tags: "music play sounds audio text alert"
                     }, {
                         sound: "./sounds/fart.wav",
                         url: "./images/playfart.png",
-                        code: 'var fart = new Sound({\n  url: "./docs/sounds/fart.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nfart.startPlaying()',
+                        code: 'var fart = new Sound({\n  url: "https://woofjs.com/docs/sounds/fart.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nfart.startPlaying()',
                         tags: "fart music play sounds audio"
                     }, {
                         sound: "./sounds/river-ride.mp3",
                         url: "./images/river-ride.png",
-                        code: 'var riverRide = new Sound({\n  url: "./docs/sounds/river-ride.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nriverRide.startPlaying()',
+                        code: 'var riverRide = new Sound({\n  url: "https://woofjs.com/docs/sounds/river-ride.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nriverRide.startPlaying()',
                         tags: "music play sounds audio"
                     }, {
                         sound: "./sounds/star-wars.mp3",
                         url: "./images/playstarwars.png",
-                        code: 'var starWars = new Sound({\n  url: "./docs/sounds/star-wars.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nstarWars.startPlaying()',
+                        code: 'var starWars = new Sound({\n  url: "https://woofjs.com/docs/sounds/star-wars.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nstarWars.startPlaying()',
                         tags: "star wards music play sounds audio"
                     }, {
                         sound: "./sounds/round_new.mp3",
                         url: "./images/playround.png",
-                        code: 'var newRound = new Sound({\n  url: "./docs/sounds/round_new.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nnewRound.startPlaying()',
+                        code: 'var newRound = new Sound({\n  url: "https://woofjs.com/docs/sounds/round_new.mp3",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nnewRound.startPlaying()',
                         tags: "level up music play sounds audio"
                     }, {
                         sound: "./sounds/pop.wav",
                         url: "./images/pop.png",
-                        code: 'var pop = new Sound({\n  url: "./docs/sounds/pop.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\npop.startPlaying()',
+                        code: 'var pop = new Sound({\n  url: "https://woofjs.com/docs/sounds/pop.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\npop.startPlaying()',
                         tags: "pop music play sounds audio"
                     }, {
                         sound: "./sounds/bang.wav",
                         url: "./images/bang.png",
-                        code: 'var bang = new Sound({\n  url: "./docs/sounds/bang.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nbang.startPlaying()',
+                        code: 'var bang = new Sound({\n  url: "https://woofjs.com/docs/sounds/bang.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nbang.startPlaying()',
                         tags: "bang music play sounds audio"
                     }, {
                         sound: "./sounds/shoot.wav",
                         url: "./images/shoot.png",
-                        code: 'var shoot = new Sound({\n  url: "./docs/sounds/shoot.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nshoot.startPlaying()',
+                        code: 'var shoot = new Sound({\n  url: "https://woofjs.com/docs/sounds/shoot.wav",\n  loop: false,\n  speed: "normal",\n  volume: "normal"\n})\n\nshoot.startPlaying()',
                         tags: "shoot music play sounds audio"
                     }, {
                         description: "Loop:",
