@@ -205,6 +205,18 @@ button.highlight:hover {
 #Motion {
     background-color: #4875D1;
 }
+#TutWrap {
+    display: flex;
+    flex-flow: column wrap;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+#Tutorials {
+    text-align: center;
+    background-color: #222;
+}
 
 #Looks {
     background-color: #7F68D5;

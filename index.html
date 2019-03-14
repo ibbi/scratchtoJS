@@ -16,31 +16,36 @@
     <div id="body">
         <div :style="menuStyles" id="menus">
             <div class="btn-group search">
-                <button v-show="open != undefined || search != ''" @click="search = ''; open = undefined" id="back" class="highlight btn btn-medium btn-info">Back</button>
-                <input  id="searchbar" type="search" class="form-control" placeholder="Search blocks..." v-model="search"></input>
-        </div>
-        <div :style="menuItem" v-for="(blocks, menu) in searched(menus)">
-            <template v-if="menu != 'Sprites & Backgrounds' && menu != 'Integrations' "> 
-                <button v-show="open == undefined || open == menu || search" :class="{highlight: !search}" class="all" :id="menu.split(' ')[0]" @click="toggle(menu)">{{ menu }}</button>
-                <div v-show="open == menu || search" class="list" v-for="block in blocks">
-                      <vue-block :block="block"></vue-block>
-                </div>
-            </template>
-            <template v-else>
-                <button v-show="open == undefined || open == menu || search" :class="{highlight: !search}" class="all" :id="menu.split(' ')[0]" @click="toggle(menu)">{{ menu }}
-                </button>
-                <div v-show="open == menu || Object.keys(blocks).includes(open) || search" class="list">
-                    <div class="list" v-for="(blocks2, submenu) in blocks">
-                        <button v-show="open == menu || open == submenu || search" :class="{highlight: !search}" class="all" :id="submenu.split(' ')[0]" @click="toggle(submenu)">{{ submenu }}
-                        </button>
-                        <div v-show="open == submenu || search" class="list">
-                            <div class="list" v-for="block2 in blocks2">
-                                <vue-block :block="block2"></vue-block>
+                <button v-show="open != undefined || search != ''" @click="search = ''; open = undefined" id="back"
+                    class="highlight btn btn-medium btn-info">Back</button>
+                <input id="searchbar" type="search" class="form-control" placeholder="Search blocks..."
+                    v-model="search"></input>
+            </div>
+            <div :style="menuItem" v-for="(blocks, menu) in searched(menus)">
+                <template v-if="menu != 'Sprites & Backgrounds' && menu != 'Integrations' ">
+                    <button v-show="open == undefined || open == menu || search" :class="{highlight: !search}"
+                        class="all" :id="menu.split(' ')[0]" @click="toggle(menu)">{{ menu }}</button>
+                    <div v-show="open == menu || search" class="list" v-for="block in blocks">
+                        <vue-block :block="block"></vue-block>
+                    </div>
+                </template>
+                <template v-else>
+                    <button v-show="open == undefined || open == menu || search" :class="{highlight: !search}"
+                        class="all" :id="menu.split(' ')[0]" @click="toggle(menu)">{{ menu }}
+                    </button>
+                    <div v-show="open == menu || Object.keys(blocks).includes(open) || search" class="list">
+                        <div class="list" v-for="(blocks2, submenu) in blocks">
+                            <button v-show="open == menu || open == submenu || search" :class="{highlight: !search}"
+                                class="all" :id="submenu.split(' ')[0]" @click="toggle(submenu)">{{ submenu }}
+                            </button>
+                            <div v-show="open == submenu || search" class="list">
+                                <div class="list" v-for="block2 in blocks2">
+                                    <vue-block :block="block2"></vue-block>
+                                </div>
                             </div>
                         </div>
-                    </div>    
-                </div>    
-            </template>
+                    </div>
+                </template>
             </div>
         </div>
     </div>
@@ -64,6 +69,10 @@
         </div>
     </script>
     <script src="./docs2.js"></script>
+    <div id="TutWrap">
+        <a href="./popup.1.html" id="Tutorials" class="all highlight">Tutorials</a>
+    </div>
 </body>
+
 
 </html>
