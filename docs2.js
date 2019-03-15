@@ -48,6 +48,16 @@ var app = new Vue({
         search: "",
         open: undefined,
         menus: {
+            "Getting Started": [{
+                html: '<a href="https://repl.it/languages/html" target="_blank"> Click here to start a new project </a>'
+            },
+            {
+                url: "./images/setupScreen.png",
+                description: "Before doing your programming in script.js, make sure you have this pasted in the body of your index.html file:",
+                code: `<script src="https://rawgit.com/stevekrouse/WoofJS/master/dist/woof.js"></script>`,
+                tags: "setup information",
+            }
+            ],
             "Integrations": {
                 "Weather": [
                     {
@@ -403,6 +413,7 @@ var app = new Vue({
                     //     tags: "picture image custom external upload sprite"
                     // },
                     {
+                        description: "To upload your own image, drag it onto the left panel. Make sure you use the correct image name in your code!",
                         url: "./images/uploadScreen.png",
                         code: 'var myImage = new Image({\n  url: "./imageName.png",\n  width: 120, \n  height: 80,\n})',
                         tags: "upload image",
@@ -1977,18 +1988,8 @@ var app = new Vue({
             ],
             Tutorials: [{
                 html: '<iframe src="https://coding.space/woof" frameborder="0"></iframe>',
-            }],
-            Setup: [{
-
-                url: "./images/setupScreen.png",
-                description: "Before working in script.js, make sure you have this pasted in the body of your index.html file:",
-                code: `<script src="https://rawgit.com/stevekrouse/WoofJS/master/dist/woof.js"></script>`,
-                tags: "setup information",
-            },
-            {
-                html: '<a href="https://repl.it/languages/html" target="_blank"> Click here to start a new project </a>'
-
             }]
+
         }
     },
     computed: {
