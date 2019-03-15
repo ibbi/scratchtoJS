@@ -1,7 +1,8 @@
 {
-    "name": "woofJS for repl.it",
-    "version": "1.0",
-    "description": "woofJS toolbox for use on repl.it",
+    "name": "Scratch to Javascript",
+    "short_name": "Wooflit",
+    "version": "1.0.0.1",
+    "description": "Learn Javascript using your Scratch skills!",
     "permissions": [
         "storage",
         "declarativeContent",
