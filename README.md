@@ -7,3 +7,5 @@ Essentially [woofJS](https://github.com/stevekrouse/WoofJS) docs altered to fit 
 3. Enable Developer Mode
 4. Click _Load unpacked extension..._
 5. Select the downloaded/cloned folder
+
+# [Webstore install:](https://chrome.google.com/webstore/detail/scratch-to-javascript/ljfhfpmjfakpjcpgmjpfgjoedkljeeln)
