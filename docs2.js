@@ -49,13 +49,26 @@ var app = new Vue({
         open: undefined,
         menus: {
             "Getting Started": [{
-                html: '<a href="https://repl.it/languages/html" target="_blank"> Click here to start a new project </a>'
+                html: '<h2 style = "text-align: center">Make sure to read this! </br></br><a href="https://repl.it/languages/html" target="_blank"> Click here to start a new project </a></h2>'
             },
             {
                 url: "./images/setupScreen.png",
-                description: "Before doing your programming in script.js, make sure you have this pasted in the body of your index.html file:",
+                description: "Before doing your programming in script.js, make sure you have this pasted in the body of your index.html file so it looks just like above:",
                 code: `<script src="https://rawgit.com/stevekrouse/WoofJS/master/dist/woof.js"></script>`,
-                tags: "setup information",
+                tags: "setup information"
+            },
+            {
+                url: "./images/scratchSample.png",
+                description: "\nTo make pikachu do this Scratch program, we will open script.js and type this",
+                tags: "setup information"
+
+            },
+            {
+                url: "./images/together.png",
+                description: "\nthen click run at the top. Remember to use your sprite's name!",
+                code: `var pikachu = new Image({\n url: "https://woofjs.com/docs/images/pikachu.png",\n width: 120,\n height: 100,\n})\nonKeyDown(() => {\n if (keysDown.includes('SPACE')) {\n  if(pikachu.x > 50) {\n   forever(() => {\n    pikachu.turnRight(15)\n    pikachu.move(10)\n   })\n   } else {\n    pikachu.x = 51\n    pikachu.y = 0\n  }\n }\n})`,
+                tags: "setup information"
+
             }
             ],
             "Integrations": {

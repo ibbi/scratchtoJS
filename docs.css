@@ -59,6 +59,7 @@ pre {
 }
 
 html {
+    margin: auto;
     width: 500px;
     height: 600px;
     overflow-y: scroll;
@@ -213,8 +214,10 @@ button.highlight:hover {
 }
 iframe {
     position: relative; 
-    height: 100%; 
-    width: 100%;
+    display: block;
+    margin: auto;
+    height: 75%; 
+    width: 90%;
 }
 
 #Looks {
