@@ -58,6 +58,11 @@ var app = new Vue({
                 tags: "setup information"
             },
             {
+                url: "./images/xAndYscript.png",
+                description: "Add this code right after if you want to see the X and Y position of your mouse! Now your index.html file should look like above",
+                code: "<script>\n      xAndY = document.createElement('p')\n      library = document.getElementsByTagName('script')[0]\n      document.body.insertBefore(xAndY, library)\n      xAndY.style = 'margin: 0;'\n      forever(() => {\n       xAndY.innerHTML = 'X: ' + mouseX + ' Y: ' + mouseY\n      })\n    </script>"
+            },
+            {
                 url: "./images/scratchSample.png",
                 description: "\nTo make pikachu do this Scratch program, we will open script.js and type this",
                 tags: "setup information"

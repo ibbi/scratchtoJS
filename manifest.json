@@ -1,7 +1,7 @@
 {
     "name": "Scratch to Javascript",
     "short_name": "Wooflit",
-    "version": "1.0.0.1",
+    "version": "1.0.0.3",
     "description": "Learn Javascript using your Scratch skills!",
     "permissions": [
         "storage",
