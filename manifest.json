@@ -4,10 +4,7 @@
     "version": "1.0.0.3",
     "description": "Learn Javascript using your Scratch skills!",
     "permissions": [
-        "storage",
-        "declarativeContent",
-        "activeTab",
-        "contextMenus"
+        "activeTab"
     ],
     "background": {
         "scripts": [
